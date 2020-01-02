@@ -1,6 +1,5 @@
 FROM alpine:latest
 
-MAINTAINER idftrq@gmail.com
 
 COPY ./frps /frps
 COPY ./frps.ini /frps.ini
